@@ -1,0 +1,11 @@
+{
+	"object-storage": {
+		"configuration": {
+			"apiKeyId": "OBJECT_STORAGE_API_KEY_ID",
+			"endpoint": "OBJECT_STORAGE_ENDPOINT",
+			"serviceInstanceId": "OBJECT_STORAGE_SERVICE_INSTANCE_ID",
+			"ibmAuthEndpoint": "OBJECT_STORAGE_IBM_AUTH_ENDPOINT"
+		},
+		"bucket": "OBJECT_STORAGE_BUCKET"
+	}
+}

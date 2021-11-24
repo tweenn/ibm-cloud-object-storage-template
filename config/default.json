@@ -1,0 +1,11 @@
+{
+	"object-storage": {
+		"configuration": {
+			"apiKeyId": "",
+			"endpoint": "",
+			"serviceInstanceId": "",
+			"ibmAuthEndpoint": ""
+		},
+		"bucket": ""
+	}
+}
